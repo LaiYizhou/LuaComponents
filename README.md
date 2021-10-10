@@ -4,7 +4,7 @@
 
 **Tips：**
 
-1. 核心是：一个 `ComponentOwner` 组装若干个 `BaseComponent` 子类**（即：用组合而不是用继承  [Favour composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) ）**
+1. 核心是：一个 `ComponentOwner` 组装若干个 `BaseComponent` 子类 **（即：用组合而不是用继承  [Favour composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance) ）**
 
 2. 代码详见 luaComponents 文件夹；
 
