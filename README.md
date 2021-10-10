@@ -1,6 +1,6 @@
 # LuaComponents
 
-![UML](_images\UML.jpeg)
+![UML](_images/UML.jpeg)
 
 **Tips：**
 
